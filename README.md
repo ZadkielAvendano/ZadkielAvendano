@@ -9,7 +9,7 @@ class ZadkielAvendano:
         self.pets = 'Bucky'
     
     def skills(self):
-        self.mainlanguage = ['python', 'java']
+        self.main_languages = ['python', 'java']
         self.learnings = ['typescript', 'flutter', 'c#', 'kotlin']
 
     def __str__(self):
