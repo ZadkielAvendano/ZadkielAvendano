@@ -1,16 +1,19 @@
-## Hi there 👋
+``` python
+class ZadkielAvendano:
+    def __init__(self):
+        self.name = 'Zadkiel Avendaño'
+    
+    def who_am_i(self):
+        self.year = 2005
+        self.studies = 'Systems Engineering from the Metropolitan University of Caracas'
+        self.pets = 'Bucky'
+    
+    def skills(self):
+        self.mainlanguage = ['python', 'java']
+        self.learnings = ['typescript', 'flutter', 'c#', 'kotlin']
 
-<!--
-**ZadkielAvendano/ZadkielAvendano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __str__(self):
+        return f"I'm {self.name}, a {self.studies}."
+        
+me = ZadkielAvendano()
+```
