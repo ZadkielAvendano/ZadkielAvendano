@@ -9,7 +9,8 @@ class ZadkielAvendano:
         self.pets = 'Bucky'
     
     def skills(self):
-        self.main_languages = ['python', 'java']
+        self.frameworks = ['react', 'react-router']
+        self.main_languages = ['python', 'java', 'javascript', 'css', 'html']
         self.learnings = ['typescript', 'flutter', 'c#', 'kotlin']
 
     def __str__(self):
