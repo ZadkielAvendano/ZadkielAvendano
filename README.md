@@ -51,5 +51,6 @@ I have a pet named **Bucky**, who keeps me company while I code.
 - Continue growing as a game developer and explore new technologies.  
 
 ## 📫 Contact
-- **GitHub:** [ZadkielAvendano](https://github.com/ZadkielAvendano)  
+- **GitHub:** [ZadkielAvendano](https://github.com/ZadkielAvendano)
+- **LinkedIn:** [Zadkiel Avendaño](https://www.linkedin.com/in/zadkiel-avenda%C3%B1o-4b8894362/)
 - **Email:** zadkielavendano32695391@gmail.com 
